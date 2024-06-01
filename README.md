@@ -2,6 +2,8 @@
 
 Welcome to my Terraform Study Project repository! This project contains various Terraform configurations and modules created during my studies to prepare for Terraform certification and to deepen my understanding of Terraform's capabilities.
 
+**Certification:** [Terraform Certification Badge](https://www.credly.com/badges/6b26d1cb-7841-47cd-ac1f-559e6c0975ce)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Modules](#project-modules)
